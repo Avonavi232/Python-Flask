@@ -1,0 +1,3 @@
+ImmutableMultiDict([('phrase', 'aeiou'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36|{'a', 'o', 'e', 'i', 'u'}
+ImmutableMultiDict([('phrase', 'ololo'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36|{'o'}
+ImmutableMultiDict([('phrase', 'notfrompycharm'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36|{'o', 'a'}
